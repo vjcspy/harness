@@ -1,0 +1,23 @@
+stages:
+  - stage:
+      identifier:
+      name:
+      type:
+      description:
+      tags:
+      spec:
+        serviceConfig:
+
+        infrastructure:
+
+        execution:
+          steps:
+            -
+      variables:
+        -
+      when:
+        pipelineStatus:
+      failureStrategies:
+        - onFailure:
+            errors:
+              - null
